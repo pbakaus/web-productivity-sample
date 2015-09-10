@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-sass": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-eslint": "*",
+    "browser-sync": "*",
+    "gulp-concat": "*",
+    "gulp-uglify": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-babel": "*",
+    "gulp-imagemin": "*"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "private": true
+}
